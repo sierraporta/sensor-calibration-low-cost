@@ -1,4 +1,4 @@
-# sensor-calibration-low-cost
+# Sensor Calibration Low Cost
 
 ## Ejemplo de como hacer la calibración de sensores de bajo costo usando herramientas de Machine Learning
 
