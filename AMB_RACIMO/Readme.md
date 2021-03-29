@@ -3,4 +3,4 @@ Códigos usados para calibración de racimo-eva con AMB
 ![station1](pm10_calibrations_Station1.png)
 ![station1](pm10_several_Station1.png)
 
-<img src="pm10_linear_Station1.png" width="330" height="250"> <img src="pm10_multiple_Station1.png" width="330" height="250"> <img src="pm10_rf_Station1.png" width="330" height="250">
+<img src="pm10_linear_Station1.png" width="333" height="250"> <img src="pm10_multiple_Station1.png" width="333" height="250"> <img src="pm10_rf_Station1.png" width="333" height="250">
